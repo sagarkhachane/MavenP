@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.572 sec <<< FAILURE! - in TestSuite
+loadingexcelsheet(Demo1.Excelforjenkins.Gmail)  Time elapsed: 0.085 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at Demo1.Excelforjenkins.Gmail.loadingexcelsheet(Gmail.java:47)
+
